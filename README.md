@@ -50,7 +50,7 @@ python analysis.py
 
 | Monthly Trend | Category Sales | Payment Share |
 |---|---|---|
-| ![trend](monthly_sales_trend.png) | ![category](visuals/sales_by_category.png) | ![payment](visuals/payment_mode_share.png) |
+| ![trend](monthly_sales_trend.png) | ![category](sales_by_category.png) | ![payment](payment_mode_share.png) |
 
 ## 🔮 Possible Extensions
 
