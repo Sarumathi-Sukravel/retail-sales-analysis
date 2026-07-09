@@ -18,18 +18,6 @@ This project analyzes 5,000 synthetic but realistic retail orders across India (
 - **Matplotlib / Seaborn** – visualization
 - **NumPy** – synthetic data generation
 
-## 📁 Project Structure
-
-```
-retail-sales-analysis/
-├── data/
-│   ├── generate_data.py     # Creates the synthetic dataset
-│   └── retail_sales.csv     # Generated dataset (5,000 rows)
-├── visuals/                 # Output charts (generated on run)
-├── analysis.py               # Main analysis script
-└── README.md
-```
-
 ## 🚀 How to Run
 
 ```bash
