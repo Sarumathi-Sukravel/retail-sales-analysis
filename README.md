@@ -40,11 +40,5 @@ python analysis.py
 |---|---|---|
 | ![trend](monthly_sales_trend.png) | ![category](sales_by_category.png) | ![payment](payment_mode_share.png) |
 
-## 🔮 Possible Extensions
-
-- Add a Streamlit dashboard for interactive filtering
-- Forecast next quarter's sales using time series models
-- Segment customers using RFM analysis
-
 ---
 *Part of my Data Analytics portfolio — [Sarumathi Sukravel](https://github.com/Sarumathi-Sukravel)*
